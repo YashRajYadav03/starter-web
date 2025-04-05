@@ -12,6 +12,7 @@ this is a demo project for git and github
 ## Deploymented
 egter resy ershgserdyh rw hstr
 
-## How to contributed
+## How to contributed-
+please do not contribute in thie project
 
 ## Copyright
