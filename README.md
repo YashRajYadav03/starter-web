@@ -18,3 +18,5 @@ egter resy ershgserdyh rw hstr
 please do not contribute in thie project
 
 ## Copyright
+
+all rights reserverd
